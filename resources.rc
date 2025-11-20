@@ -1,0 +1,4 @@
+#include "resource.h"
+
+IDR_MUSIC RCDATA "music.mod"
+IDR_LOGO  RCDATA "logo.png"
